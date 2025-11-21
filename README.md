@@ -1,7 +1,5 @@
 # Vision Transformer Comparison
 
-Proyek pembelajaran mendalam yang membandingkan performa tiga arsitektur Vision Transformer pada tugas klasifikasi gambar. Proyek ini adalah bagian dari kuliah Deep Learning Semester 7.
-
 ## Daftar Isi
 
 - [Deskripsi Project](#deskripsi-project)
@@ -48,7 +46,7 @@ Setiap model dilatih dan dievaluasi menggunakan dataset yang sama untuk perbandi
 - Optimisasi: Window-based self-attention
 
 ## Dataset
-
+menggunakan dataset tugas kemarin 
 - **Format**: Dataset image-based dengan CSV annotation
 - **Struktur**:
   - `train.csv`: File anotasi training set (kolom: filename, label)
